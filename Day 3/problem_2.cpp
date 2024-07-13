@@ -40,7 +40,7 @@ int main(){
     double marks;
 
     cout << "Enter Student Name: ";
-    cin >> name;
+    getline(cin, name);
     cout << "Enter Student class: ";
     cin >> _class;
     cout << "Enter Student roll number: ";
