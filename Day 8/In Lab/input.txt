@@ -1,0 +1,2 @@
+C++ WORKS
+C++ SUCKS
